@@ -1,0 +1,59 @@
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\Bootstrap Card.dll.config
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\Bootstrap Card.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\Bootstrap Card.pdb
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csc.exe
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csc.exe.config
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csc.rsp
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csi.exe
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csi.exe.config
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\csi.rsp
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.AppContext.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Console.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Net.Http.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\vbc.exe
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\vbc.exe.config
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\vbc.rsp
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\obj\Debug\Bootstrap Card.csproj.AssemblyReference.cache
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\obj\Debug\Bootstrap Card.csproj.CoreCompileInputs.cache
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\obj\Debug\Bootstrap Card.csproj.CopyComplete
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\obj\Debug\Bootstrap Card.dll
+C:\Users\Lisboa\OneDrive - Cinel\Documentos\Cinel\CET\CET78\Bootstrap Card\Bootstrap Card\obj\Debug\Bootstrap Card.pdb
